@@ -1,0 +1,22 @@
+body {
+  position: relative;
+}
+img {
+  transform: translate(30%, 30%);
+  position: absolute;
+
+}
+
+.individual {
+
+}
+.individual .photo img {
+  border: 3px solid #000;
+  border-radius: 100%;
+}
+.individual .descr {
+  
+}
+.individual .link {
+
+}
